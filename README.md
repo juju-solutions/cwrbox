@@ -4,8 +4,8 @@ Cwrbox is an extension of the [charmbox](https://github.com/juju-solutions/charm
 for running the [Cloud Weather Report](https://github.com/juju-solutions/cloud-weather-report)
 
 ## Usage
-   `sudo docker run --rm -ti seman/cwrbox`
+   `docker run --rm -ti jujusolutions/cwrbox`
 
-### Usuage detailed info
-Please read the following for detailed info: 
+### Usage detailed info
+Please read the following for detailed info:
 https://github.com/juju-solutions/charmbox
